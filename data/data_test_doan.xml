@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="Test">
+		<sentences>
+			<sentence id="Test1:0">
+				<text>Nhưng không_gian hơi chật mình đi mấy King khác thì_có quầy tự_phục_vụ ( tự lấy rau , trái_cây kem . . ) nhưng chắc do không_gian nhỏ nên phải gọi nhân_viên mang ra .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:1">
+				<text>Sò sốt me thì đậu_phộng bị ỉu 1 ít rồi nhưng sốt khá ngon . Không_gian dễ_thương , bingsu theo cảm_nhận của mình thì không ngon lắm , nhưng phục_vụ chu_đáo . Đi ăn buổi chiều mà cũng đông dễ_sợ luôn .</text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:2">
+				<text>Gía hơi cao nhưng so với chất_lượng kem thì chấp_nhận được .</text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:3">
+				<text>Điểm trừ là thái_độ phục_vụ của nhân_viên rất kém , kiểu khinh_khỉnh như khinh người , khách vào không thèm chào , không thèm nhìn mặt khách khi khách gọi .</text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:4">
+				<text>Kem khá đắt và chất_lượng chưa xứng với giá tiền</text>
+				<Opinion category="REST#PRICES"/>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:5">
+				<text>Địa_điểm quán quá đẹp mà_lại gần nhà nên ghé qua ăn thôi</text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:6">
+				<text>Tốt nhất_là nên chọn vị kem chua vì các vị ngọt lại quá ngọt ! Ngon</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:7">
+				<text>View ngoài ban_công siêu đẹp .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:8">
+				<text>Vì cái nè bình_thường là 70.000/chiếc cơ : ( ( Ăn 2 cái là 140.000 doài T . T khá chát so với sinh_viên vẫn ăn cơm bố_mẹ ạ .</text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:9">
+				<text>Macadamia_Nut : ăn thơm thơm , vui vui , có hạt " nut " bùi_bùi</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:10">
+				<text>Rainbow_Sherbet : cái này cũng được làm từ các loại berries luôn , vị chua_chua , dễ trung_hòa với mấy vị bị ngọt của BR</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:11">
+				<text>Thích chú bảo_vệ ở đây , siêu nhiệt_tình , siêu nice</text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:12">
+				<text>Bún đậu mắm_tôm ở đây thì quá nổi_tiếng rồi .</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:13">
+				<text>Khá chật_chội , lối đi vào hẹp đã_vậy còn xếp xe đầy kiệt .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:14">
+				<text>Một phần như hình 20k , ăn xong phần đấy no cành bụng giá phù_hợp với sinh_viên , học_sinh .</text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:15">
+				<text>Bún ngon nhưng hơi ít thịt .</text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:16">
+				<text>bữa_nay quán mới mở_rộng thêm phía trước , nên vào ăn_không sợ bị hết bàn như trước nữa</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:17">
+				<text>Thêm phần tráng_miệng là sữa_chua mít và chè khúc bạch ở đây làm cũng ngon lắm , à với quán có món chả cốm , món này mình thích nhất nà , tới ăn lúc_nào cũng gọi thêm dĩa chả cốm hết ... nên thử 😁 Kinh_Bắc - Bún_Đậu_Mắm_Tôm</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:18">
+				<text>Sushi ngon , tươi , trình_bày đẹp .</text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:19">
+				<text>Cá_nhân mình thích không_gian riêng_tư nên cực thích quán này nhé </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:20">
+				<text>Mình gọi 3 món là thuyền + bánh_xèo + bánh bạch_tuộc tổng hết 500k .</text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:21">
+				<text>Quán dễ tìm .</text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:22">
+				<text>Ghé_Kita_Guni làm ngay 1 set Lunch kiểu Nhật , vừa chất_lượng mà giá_cả cũng hợp_lý .</text>
+				<Opinion category="REST#PRICES"/>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:23">
+				<text>Set dao_động tầm 90 - 120k đầy_đủ món chính ( cơm bò úc , cơm cá nướng , set sushi ) , salad , kimchi , soup , tráng_miệng và trà đá / trà sữa kèm theo nguyên set nhen .</text>
+				<Opinion category="REST#PRICES"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:24">
+				<text>Tầng 1 là khu bệt tuy_nhiên mỗi bàn đều có khoảng ko gian bỏ chân xuống nên ngồi khá thoải_mái , trong khi đó tầng 2 là các phòng riêng_tư theo nhóm , hay các cặp đôi . đồ_ăn ngon</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:25">
+				<text>Sinh_nhật bạn mình đi 5 người ăn khoảng hơn 500k</text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:26">
+				<text>Sushi tươi ngon nhưng vì mình ăn_không quen cho lắm , lạ lạ_miệng .</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:27">
+				<text>Thích không_gian nho_nhỏ ấm_áp , nhất_là rượu sake nóng uống hay_hay .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:28">
+				<text>Nhà_hàng nhìn ở ngoài không rực_rỡ hoành_tráng ( đây là đặc_điểm chung của các nhà_hàng Nhật_Bản ở Đà_Nẵng rồi ) , bên trong trang_trí vừa_phải , không_khí thân_thiện , nhân_viên nhanh_nhẹn .</text>
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:29">
+				<text>Quán này mở cũng gần chục năm rồi .</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:30">
+				<text>Đặc_biệt đây sẽ là một quán để học_tập hiệu_quả và không có_tiếng ồn , và cũng là chỗ có giường và gối ngủ nữa .</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:31">
+				<text>Nói chung là quán khá oki Quán cafe sách xanh_mát</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:32">
+				<text>Tuy là quán cafe sách nhưng sách ở đây chưa nhiều và phong_phú như tôi mong_đợi cơ_mà cũng có nhiều quyển quý_hiếm đáng để nghiền_ngẫm lắm lắm !</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:33">
+				<text>Quán nằm ở trên mặt_đường lê lợi , nếu nhìn ngoài thì thấy quán hơi bé , nhg bên trong khá rộng_rãi đủ để ngồi</text>
+				<Opinion category="REST#LOCATION"/>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:34">
+				<text>Tiệm cafe hơi nhỏ nhưng đây lại là lợi_thế vì không_gian sẽ rất yên_tĩnh , không bị quá loãng làm mất đi tinh_thần ban_đầu của 1 tiệm cafe sách đúng nghĩa .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:35">
+				<text>Khách đông lắm </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:36">
+				<text>Mình gọi đường đá bình_thường còn bạn mình gọi 30 đường 0 đá nhưng sau lộn với nhau nên mình uống có hơi nhạt Được_cái trà thơm , macchiato béo , ngọt nên uống cùng_với nhau khá ngon và hợp ấy !</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:37">
+				<text>Giá thì tầm 55k cho blacktea size M , 59k cho trà sữa size M tính ra cũng khá cao .</text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:38">
+				<text>Vị_trí : nằm ở đường lớn rất thuận_lợi .</text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:39">
+				<text>Đôi_lúc mình cũng hay uống trà sữa , topping ở đây đa_dạng mà món nào cũng ngon , cứ muốn cho hết vào ly trà sữa thôi .</text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:40">
+				<text>Đồ uống : quán_ăn nên phần này k quá quan_trọng , menu k đa_dạng .</text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:41">
+				<text>Menu KOI khá đa_dạng , do khách khá đông nên phải chờ khá lâu .</text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:42">
+				<text>Nói về trà sữa thì ko thể quên nhắc tới Koi nhỉ , ly bé_tí nhưng thực_ra rất nhiều đó nha , miệng 1 ly là no rồi , vì Koi bỏ rất ít đá , chủ_yếu là nước trà sữa , nên rất đậm vị luôn</text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:43">
+				<text>Ly trà đào đc bỏ đào nhiều lắm .</text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:44">
+				<text>Khoai_tây lắc ngũ_vị 25k : 1 đĩa ít lắm ko đáng 25k mà gia_vị ăn sao sao ý ko hợp vs khoai_tây lắm, thôi lần sau ko ăn cái này nữa. </text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:45">
+				<text>Tuy_nhiên mình ở ngoài Bắc thường thấy , các quán bánh ngọt như này trên khay đựng bánh phải có giấy lót cẩn_thận , nhưng ở quán này hỏi nhân_viên lại nói đer trực_tiếp lên đĩa.</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:46">
+				<text>Giá_cả khá ổn , xứng_đáng với đồng_tiền hơn .</text>
+				<Opinion category="REST#PRICES"/> 
+			</sentence>
+			<sentence id="Test1:47">
+				<text>Hơn_nữa , thái_độ phục_vụ của nhân_viên không thân_thiện .</text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:48">
+				<text>Bánh_giò bình_thường , nhân có_vẻ hơi mặn , bánh nhỏ_xíu .</text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:49">
+				<text>Bánh_giò bình_thường , nhân có_vẻ hơi mặn , bánh nhỏ_xíu .</text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:50">
+				<text>đa_dạng các loại bánh : bánh_tây , bánh ta , gato hay bánh ngọt bình_thường đều có .</text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:51">
+				<text>Địa_điểm thì khá dễ tìm </text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:52">
+				<text>KHÔNG_GIAN : Tiệm bánh_mì bự chảng nằm gần với chợ Dalat , ở đây lúc_nào cũng đông_đúc khách vào ra .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:53">
+				<text>GIÁ_CẢ : khá mềm , tầm 15-25K / ổ bánh_mì .</text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:54">
+				<text>DỊCH_VỤ : nhân_viên nhanh_nhẹn nhưng thao_tác chưa được vệ_sinh lắm , ở quầy bánh_mì ổ có bạn nam vừa cho rau_dưa hành ngò vào ổ và để vào túi cho khách , đồng_thời vừa thu tiền luôn , nhưng bạn ấy không đeo găng_tay , cái tay ấy vừa cầm tiền xong là bốc đồ vào bánh_mì luôn , thấy dơ dơ .</text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:55">
+				<text>Vị_trí dể tìm vì nằm rất to trên đường k muốn thấy cũng phải thấy</text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:56">
+				<text>Phải công_nhận bánh ở đây rất ngon và có nhiều loại lắm luôn , tha_hồ lựa_chọn nhé .</text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:57">
+				<text>Hôm_nay nhóm mình đi có 6 người , vào quán nhân_viên không thèm chào khách , khách vào không ra nhận order , order thì nửa tiếng vẫn chưa có đồ_ăn , nước cũng không mang ra , gọi lại 2 3 lần cũng vậy , không coi khách_hàng ra_gì .</text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:58">
+				<text>Menu ở đây cũng có nhiều món ăn kèm với cơm lắm .</text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:59">
+				<text>Nhân_viên : KO 1 nụ_cười , từ bồi_bàn đến thu_ngân .</text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:60">
+				<text>Hấp_dẫn nhất_là bánh_mì nhỏ nhỏ xinh_xinh , nóng_hổi và giòn_rụm , mua về để trong phòng thơm_lừng cầm_lòng không nổi luôn .</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:61">
+				<text>Chỗ_Liên_Hoa này rất hoành_tráng nhưng_mà lại nằm trên đường rất nhỏ và dốc nên đỗ xe có hơi bất_tiện .</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:62">
+				<text>Bánh_mì liên hoa theo cảm_nhận của mình thì ăn được chứ gọi_là ngon thì chưa hẳn .</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:63">
+				<text>Tuy giá_cả có hơi cao một_chút nhưng chất_lượng rất tốt .</text>
+				<Opinion category="REST#PRICES"/>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:64">
+				<text>Chỗ đỗ xe thì ok , nhưng trời mưa ko có mái che .</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:65">
+				<text>Chỗ đỗ xe thì ok , nhưng trời mưa ko có mái che .</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:66">
+				<text>Quán có chè lục tàu xá rất thơm ngon .</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:67">
+				<text>Quán nằm ngay mặt_đường Cửu_Long nên rất dễ tìm</text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:68">
+				<text>Bánh lọc chay mềm , nóng , nhân được sắt vụn ăn rất ngon_miệng và lạ nữa nhé .</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:69">
+				<text>Bánh lọc chay mềm , nóng , nhân được sắt vụn ăn rất ngon_miệng và lạ nữa nhé .</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:70">
+				<text>Set menu gồm : Cơm_lam + thịt hun khói , Gà nướng + xôi nếp_cẩm , Thịt xiên nướng + salad trộn bao ngon , Cháo gà nồi đất , Chuối nướng .</text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:71">
+				<text>Nghe_nói còn có lễ_hội giao_lưu tây_nguyên được tổ_chức ở đấy nhé !</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:72">
+				<text>Bao_gồm có : 1 niêu cháo , 1 đĩa xôi tím , 1 cái đùi gà mà to như nửa con gà , 4 xiên thịt , 1 đĩa thịt hun khói , cơm_lam , salad , dưa_chuột chẻ , 2 quả chuối nướng tráng_miệng và 1 chai rượu táo mèo hay mơ gì đó !</text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:73">
+				<text>Không_gian ở đây rộng_rãi , cảm_giác như đang ở 1 sân trượt patin : ) ) ) 1 cái mâm to oạch sẽ ngồi được 7-8 người ấy chứ !</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:74">
+				<text>Quán dễ tìm .</text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:75">
+				<text>Hôm_nay mới check in thử , quán view khá , quán còn khá nóng , nước uống ngon mình thích nhất món socola đá xay ngon hơn rất nhiều quán mình uống .</text>
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:76">
+				<text>Nhân_viên nhanh_nhẹn chuyên_nghiệp , khi đồ uống đc đưa ra thì_phải thanh_toán ngay tại bàn nên hơi lạ</text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:77">
+				<text>Trà đào ngon nhưng hơi ngọt quá .</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:78">
+				<text>Ko gian đẹp , thoáng mát .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:79">
+				<text>Mình gọi 1 bing su socola 59 k , trong khi cũng y_chang vậy_mà Mana 85 k .</text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:80">
+				<text>Quán có nhiều vị_trí để có_thể ngắm cảnh nhắm người : v Menu mình thấy cũng không da dạng lắm , được_cái giá ok .</text>
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:81">
+				<text>Quán có một không_gian nhìn xanh mướt nhớ khuôn_viên bán cây_xanh đối_diện .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:82">
+				<text>Bước vào quán là mấy em chào_đón liền , quán khi nào cũng đông khách , không_gian nhỏ , đồ úông khá vừa và không đắt .</text>
+				<Opinion category="REST#GENERAL"/>
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:83">
+				<text>Nhân_viên nhanh_nhẹn , thân_thiện .</text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:84">
+				<text>Ghét là wifi tệ quá , mình nghĩ quán nên bắt wifi có pass hơn là đăng_nhập fb .</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:85">
+				<text>Quán có bố_trí máy_lạnh đủ cả nên k nóng ( mình thấy 1 số bạn comment quán nóng nhưng chắc đi ban_ngày ít khách ngta k bật điều_hoà hay_sao .</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:86">
+				<text>Quán có vị_trí dễ tìm .</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:87">
+				<text>Khách đông nên nhân_viên hơi lộn xồn , đưa menu xong lại chạy , kêu hoài mới đến oder rồi xin nước_lọc mới đem ra ... .</text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:88">
+				<text>Các quán khác bingsu toàn đá là đá , trên mặt bỏ ít trái_cây với viên kem , ăn chán gì đâu .</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:89">
+				<text>Quán này không_gian cực đẹp chia ra làm nhiều gian , nhưng đông khách quán nên hơi ồn và hết bàn ngoài</text>
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:90">
+				<text>Điểm trừ quầy pha_chế ngay trung_tâm và tiếng của máy xay quá to nhiều khi làm ảnh_hưởng đến không_gian .</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:91">
+				<text>Kem cheese ít và loãng cực_kì .</text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:92">
+				<text>Giá_cả thì ngang các thương_hiệu trà khác song vì chất_lượng không như mình mong_muốn nên thấy mắc Royal_Tea.</text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:93">
+				<text>Trà xanh thì mùi khó uống qá nên mình k qen uống k được , bỏ nguyên ly</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:94">
+				<text>Làm mình có cảm_tình , mình viết rv để cho dân phượt như mìh biết quán khá ổn vs dân đi xa như mình ! Nước ngon hơn bên Phan</text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:95">
+				<text>Quán mới mở ở đường Nguyễn_Thị_Minh_Khai .</text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:96">
+				<text>Hình_như 90k một đĩa thì_phải .</text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:97">
+				<text>riêng cơm hải_sản xào rau thì mình không ăn được rau này , còn hải_sản chỉ có vị ngọt của hải_sản , không có sốt gì để ăn để ăn kèm nên vị nhạt quá , không tạo được sự hấp_dẫn</text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:98">
+				<text>Phục_vụ nhanh_nhẹn nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:99">
+				<text>Nhưng về cách phục_vụ và vệ_sinh của quán phải gọi_là quá tệ ( mình nghĩ vì khách đông nên quán cũng không chú_tâm lắm vấn_đề này chăng ? )</text>
+				<Opinion category="REST#SERVICE"/>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:100">
+				<text>Không_gian rộng , sắp_xếp hợp_lý nhưng đèn tối .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:101">
+				<text>Về không_gian : quán có 3 tầng , có cả chỗ xem phim , mình ngồi trên tầng 3 ở ngoài_trời nên thấy thoáng mát và rất dễ_chịu , tuy_nhiên ở tầng 1 lại hơi nóng .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>	
+			<sentence id="Test1:102">
+				<text>Tomato_Cream_Soup vừa ngậy vị kem vừa chua nhẹ vị cà_chua nên ăn_không ngán lắm , trong soup có 2 , 3 miếng bánh vuông ăn kèm nữa .</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>	
+			<sentence id="Test1:103">
+				<text>Quán nằm trong hẻm nhưng khá dễ tìm</text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>	
+			<sentence id="Test1:104">
+				<text>Mò_mẫm trên instagram mới tìm ra chỗ bán online ngon lại rẻ như_thế_này haahhh .</text>
+				<Opinion category="REST#PRICES"/> 
+				<Opinion category="REST#QUALITY"/>
+			</sentence>	
+			<sentence id="Test1:105">
+				<text>Giá bánh trứng 50k-60k .</text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:106">
+				<text>Vị_trí : nằm trong khu_phố đi bộ .</text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>	
+			<sentence id="Test1:107">
+				<text>Chỉ có mấy cái ghế nhựa cho ngồi thôi</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>	
+			<sentence id="Test1:108">
+				<text>Bánh trứng kem trà xanh 85k : nóng , giòn , thơm ngon lắm ạ , bánh dai dai ăn chung với kem lạnh lạnh , ôi tuyệt_cú mèo.</text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#PRICES"/> 
+			</sentence>	
+			<sentence id="Test1:109">
+				<text>Không_gian quán nhỏ nhưng trang_trí rất dethuong , thích_hợp cho các bạn thích chụp hình.</text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>	
+			<sentence id="Test1:110">
+				<text>Giá khá chát nha mà kệ đi , chất_lượng thì quá ok rồi mà .</text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#PRICES"/>
+			</sentence>	
+			<sentence id="Test1:111">
+				<text>Vào quán là mùi waffle đã xựt lên tới khứu_giác làm mình cứ đứng đó hít hít nhìn hơi điên</text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:112">
+				<text>Quán nằm ngay đường Hồ_Tùng_Mậu , sát bên phố đi bộ luôn nên rất tiện .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>	
+			<sentence id="Test1:113">
+				<text>Quán nằm ở tầng 4 Vincom_Hải_Phòng , rất dễ tìm luôn .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>	
+			<sentence id="Test1:114">
+				<text>Quán có view rất đẹp , sang_trọng , rộng_rãi , nướng lẩu không khói nhưng hơi đông nên vẫn ám mùi nướng vào quần_áo .</text> 
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>	
+			<sentence id="Test1:115">
+				<text>Nhân_viên phục_vụ_bàn khá là nhiệt_tình , nói_chung để chọn quán_ăn nướng lẩu thì quán này khá là ok đó .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>	
+			<sentence id="Test1:116">
+				<text>Nhvien nói thật_là cần máy trợ_thính , mà khách hỏi còn k thèm trả_lời , gọi thanh_toán còn lâu , tiền thừa k nhắc cũng k có ý_định trả .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>	
+			<sentence id="Test1:117">
+				<text>Chủ quán và nhân_viên rất lịch_sự và nhiệt_tình .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>	
+			<sentence id="Test1:118">
+				<text>mình ăn nộm thập_cẩm không chim chỉ 20k/bát , mà đầy ú_ụ nhân luôn ý , ăn hết cả đủ đủ vs cà_rốt bào rồi mà vẫn còn bao_nhiêu là thịt rồi gân , lá_lách ... bát nộm siêu siêu siêu đầy đặn </text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>	
+			<sentence id="Test1:119">
+				<text>20k một bát to_sụ đầy_đặn kinh khủng_khiếp .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>	
+			<sentence id="Test1:120">
+				<text>1 bát khá nhiều như thịt bò , gân , lá_lách , sụn ... nước trộn chua_ngọt hài_hòa .</text> 
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>	
+			<sentence id="Test1:121">
+				<text>Lâu lắm rồi mới ăn_ở đây , trc ở giữa phố , h chuyển ra đầu phố rồi .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>	
+			<sentence id="Test1:122">
+				<text>Quán ở đầu phố Nguyễn_Trung_Trực , có chỗ ngồi ở trong nhà và ngoài vỉa_hè .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>	
+			<sentence id="Test1:123">
+				<text>Nộm ở đây mình thấy ổn nhiều nhân nhiều rau nhiều thịt .</text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>	
+			<sentence id="Test1:124">
+				<text>Bánh bột lọc to cực phải cỡ 3 ngón_tay mà mỗi_tội bánh không thơm như mình ăn trên NSL .</text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>	
+			<sentence id="Test1:125">
+				<text>Tóm_lại là chất_lượng ổn , giá_cả siêu hợp_lý Bình_thường !</text> 
+				<Opinion category="REST#PRICES"/>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>	
+			<sentence id="Test1:126">
+				<text>Bà chủ quán nhiệt_tình , chu_đáo , phục_vụ nhanh .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>	
+			<sentence id="Test1:127">
+				<text>Một_số buổi tối có tổ_chức nhạc_sống .</text> 
+				<Opinion category="REST#GENERAL"/>
+			</sentence>	
+			<sentence id="Test1:128">
+				<text>Vị_trí quán ở trong hẻm nhỏ nên ko có chỗ đậu , gửi xe mà phải để lấn ra ngoài đường hẻm , gây cản_trở giao_thông nên ko ổn lắm .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>	
+			<sentence id="Test1:129">
+				<text>Phục_vụ nhiệt_tình giới_thiệu bánh cho khách dễ lựa_chọn , nói_chuyện nhẹ_nhàng .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>	
+			<sentence id="Test1:130">
+				<text>Lâu mới có dịp về Nha_Trang chơi , biết quán qua mạng nên dù có địa_chỉ quán nhưng trong hẻm nên cũng hơi khó tìm chút vì đi_sâu vào trong hẻm mới thấy được .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:131">
+				<text>Ngày_trước quán nằm ở cuối đường Nguyễn_Trãi dễ tìm hơn , giờ phải đi vào trong hẻm khúc Nguyễn_Thị_Minh_Khai nên mình hay bị nhầm hẻm .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:132">
+				<text>Matcha trà xanh thì cái kem phần trên hơi béo , hơi ngọt tí_xíu .</text> 
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:133">
+				<text>Sweet peanut cake đúng như tên gọi của nó , khuyến_cáo bánh này chỉ dành cho bạn nào hảo ngọt thôi , ai ít ăn ngọt thì bánh này sẽ làm_bạn xóc đến tận óc đó.</text> 
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:134">
+				<text>Quán nằm trong hẻm nguyễn thị minh khai , cũng rất dễ tìm</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:135">
+				<text>Không_gian thoáng , thoải_mái rất hợp để tán_gẫu với bạn_bè , người_yêu</text> 
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:136">
+				<text>Giá_cả : bánh bột lọc 5k 1 cái bán theo đĩa 5 cái nhé .</text> 
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:137">
+				<text>Tuy nhìn bề_ngoài , quán được bày trí khá đơn_giản và bình_dân , nhưng với phương_châm phục_vụ luôn mang đến chất_lượng tốt nhất và sự hài_lòng cho thực_khách nên vì_thế mà quán rất đông khách , bất_kể là buổi_sáng hay tối .</text> 
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:138">
+				<text>Món tủ của mình ở đây là nem cuốn , phở cuốn , bột lọc và nộm hệ hệ Quầy ăn vặt phong_phú.</text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:139">
+				<text>Về phần đồ uống của quán thì cũng duyệt nha , nước sấu , trà quất , trà đào cái gì cũng có.</text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:140">
+				<text>Khoai_lang tím có sốt chấm không phải tương_ớt mà sốt gì ý cũng ngòn_ngọt .</text> 
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:141">
+				<text>Ăn cả nhà no kềnh mà chỉ có 800k .</text> 
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:142">
+				<text>Mình gọi mì tương đen với mì gà_ác hết 90k , mì tương đen ăn ok nhưng có_vẻ hơi ngán tí nếu ăn quá nhìu . Mì gà_ác mì không nhìu , gà_ác dc 1/2 con vs gà hầm chưa mềm lắm , cộng mỳ thì mềm ok . Nước_lèo hơi ngọt tí nhưng vừa_miệng </text> 
+				<Opinion category="REST#PRICES"/>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:143">
+				<text>Vẫn thích đồ ngọt trên này hơn đồ mặn , các món làm đẹp_mắt và trang_trí ok , chất_lượng cũng vậy , thích món kem trên này , kem mới làm_nên ăn rất ok , chuyển lên tầng trên thì không_gian nhỏ hơn nên không còn cái tháp socola nữa , bánh cũng ít mẫu_mã hơn lúc trước , nhân_viên thân_thiện , nhưng không_gian khá nhỏ nên chọn món khá khó_khăn khi đông Novotel_Premier_Han_River_Restaurant</text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:144">
+				<text>Giá buffet trưa chủ_nhật là 750k cho vé không rượu và 950k cho vé có rượu .</text> 
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:145">
+				<text>Đồ_ăn không có nhiều món , ít sự lựa_chọn .</text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:146">
+				<text>Món tráng_miệng phong_phú các loại bánh , kem và trái_cây .</text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:147">
+				<text>Trà sữa mình thấy vị vừa , hài_hoà , pudding và trân trâu nhiều , mình thích , vị trà thấy ngon hơn dingtea hay toco .</text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:148">
+				<text>Gía cả hoàn_toàn tương_xứng với chất_lượng và dịch_vụ ở đây .</text> 
+				<Opinion category="REST#PRICES"/>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:149">
+				<text>Buổi_sáng đông_đúc hơn buổi tối nên phải dậy sớm để đi ăn .</text> 
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:150">
+				<text>Quán nhỏ , nằm trong ngõ hẹp , nhưng không_gian cũ cũ nhìn hay_hay .</text> 
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:151">
+				<text>Tầng một có một không_gian sân vườn tràng ngập màu xanh của cây_lá !</text> 
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:152">
+				<text>Đi theo bản_đồ thì nó chỉ tùm_lum làm đi lạc quài , mình đi từ hướng THĐ thì_phải , ko nhớ rõ tên đường chỉ biết chạy qua khỏi sân đua chó , chạy thẳng quài ( qua trường duy_tân ) gặp ngã ba ( đèn_xanh đèn_đỏ ) quẹo trái , chạy thẳng rồi quẹo trái tiếp , đường này là dốc cao đi lên núi</text> 
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:153">
+				<text>Lượng khách đông vãi chưởng.</text> 
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:154">
+				<text>Phục_vụ những ngày cuối tuần mình chỉ cho được điểm 7 , vì có_lẽ lượng khách đông quá các bạn chạy_bàn không kịp .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:155">
+				<text>Ăn no_nê mỗi đứa chừng hơn trăm_ngàn , khá ổn và lí_tưởng cho bữa ăn ngon bên bạn_bè nha.</text> 
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:156">
+				<text>Vị_trí nằm hơi khuất nếu k bt đường hỏi ng dân xung_quanh sẽ chỉ cho nha Không_bao_giờ quay lại</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:157">
+				<text>Menu nước cũng rất đa_dạng : nước mía nhiều loại , rau_má , sinh_tố đủ thứ .</text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:158">
+				<text>Giá thì mình cho là ko rẻ cho lắm đâu , tô miến cũng hơi ít , ai ăn nhìu ăn 2 tô mới no đó .</text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:159">
+				<text>Khá ngon ! Phở miến Gà ở đây giá vừa vừa , đúng vị miền Nam</text> 
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="Test1:160">
+				<text>Menu phong_phú , có nhiều loại bún chứ k phải chắc bún đậu , có bún giả_cầy , bún mẹt chim , lẩu gà , lẩu nấm </text> 
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="Test1:161">
+				<text>Quán nằm trong ngõ nhỏ đồ_ăn vặt đường Nguyễn_Huệ , quán có không_gian nhỏ nhưng khá ấm_áp , với sắc vàng của đèn nên càng dễ_thương ảo diệu</text> 
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:162">
+				<text>nằm trên con phố có khá nhiều nhà_hàng sang_trọng nên lúc search ra quaithao đã thấy ưng r .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:163">
+				<text>Và điểm cộng cho quán là cả chủ và nhân_viên đều rất nhiệt_tình .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:164">
+				<text>Mình uống trà đào giá 40k ko qúa cao cũng ko quá thấp .</text> 
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="Test1:165">
+				<text>Nhân_viên dễ_thương , thân_thiện .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:166">
+				<text>Vị_trí đẹp và dễ tìm lại rất gần nhà mình nữa .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:167">
+				<text>Quán tọa_lạc tại đường Huỳnh_Thúc_Kháng , phố điểm_tâm .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:168">
+				<text>Quán tọa_lạc tại đường Huỳnh_Thúc_Kháng , phố điểm_tâm .</text> 
+				<Opinion category="REST#LOCATION"/>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="Test1:169">
+				<text>Nhân_viên phục_vụ rất nhiệt_tình , nhanh_nhẹn , chu_đáo .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:170">
+				<text>Ghét nhất khoản phục_vụ rất chậm_chạp , chờ gần 45 ' mới có đồ_ăn , kêu đi kêu lại chục lần rồi nó nói mất order nên ko biết</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:171">
+				<text>nhân_viên phục_vụ cũng chán</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:172">
+				<text>Quán này nổi rùi , nằm ở con phố siêu nhỏ giao với Bờ_Hồ</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:173">
+				<text>Vị_trí : Nếu đi từ Đinh_Tiên_Hoàng rẽ vào thì sẽ dễ bị nhà Hải_Sinh săn_đón ngay .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:174">
+				<text>quán ngay gần nhà mình nên đi_đi lại lại cũng đỡ bị lười ấy .</text> 
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="Test1:175">
+				<text>Quán ngay đầu con hẻm , trong hẻm đó đủ thứ bán_buôn vui lắm , buổi_trưa xung_quanh còn bán cơm tấm mì hoành thành này kia nữa .</text> 
+				<Opinion category="REST#LOCATION"/>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="Test1:176">
+				<text>Thái_độ nhân_viên thất_thường , vui thì niềm_nở , buồn thì khá cáu_kỉnh .</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="Test1:177">
+				<text>Phục_vụ : chị rất niềm_nở , thoải_mái , lúc gọi thêm còn múc cho bọn mình bát rất đầy kiểu sắp trào ra ngoài</text> 
+				<Opinion category="REST#SERVICE"/>
+			</sentence>	
+		</sentences>
+	</Review>
+</Reviews>
